@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **juandmelendezpe/juandmelendezpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 * Vivo en Avila España, me gusta la informatica y los viajes 🛩
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - Visita mis redes sociales
 
 
--->
+
