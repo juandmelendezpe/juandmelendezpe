@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**juandmelendezpe/juandmelendezpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juandmelendezpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 * Vivo en Avila España, me gusta la informatica y los viajes 🛩
 
 
