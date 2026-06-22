@@ -54,8 +54,7 @@ Además de la informática y la tecnología, me apasiona explorar el mundo y via
 
 ¿Tienes alguna idea interesante en mente o simplemente quieres saludar? ¡No dudes en contactarme!
 
-* 📧 **Email:** [Juanmelendez.pe@gmail.com](mailto:Juanmelendez.pe@gmail.com) / [Juand.mp@outlook.es](mailto:Juand.mp@outlook.es)
-* 📱 **Teléfono:** +34 613 620 890
+* 📧 **LinkedIn:** @juandmelendez
 * 📍 **Ubicación:** Ávila, España
 
 ---
